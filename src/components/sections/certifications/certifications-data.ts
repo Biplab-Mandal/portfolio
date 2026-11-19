@@ -37,7 +37,7 @@ export const certifications = [
   {
     title: "Deep Learning Specialization",
     issuer: "Coursera",
-    date: "2022",
+    date: "September 12, 2026",
     icon: BrainCircuit,
     url: "https://coursera.org/share/c7026e0628bee86bb403bbf02d3cf21b",
   },
